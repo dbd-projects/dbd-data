@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "Nurse",
+    "img": "images/nurse.png",
+    "link": "https://deadbydaylight.gamepedia.com/Sally_Smithson",
+    "rating": "S+",
+    "reason": "Nurse is the absolute strongest killer in the game. Her blinks gives her high mobility around the map while also allowing her to ignore solid objects (which is useful during chases where the survivor's can only put solid objects between themselves and the killer to escape). Her mobility gives her the ability to hook a survivor, chase someone else, and then return to the hook as soon as the survivor is unhooked."
+  },
+  {
+    "id": 1,
+    "name": "Hillbilly",
+    "img": "images/billy.png",
+    "link": "https://deadbydaylight.gamepedia.com/Max_Thompson_Jr.",
+    "rating": "S",
+    "reason": "Billy's one-hit down is pretty strong because it makes chases go faster. He also has high mobility with his chainsaw, which eliminates the need to slow down the overall game. His ability to go from one side of the map to another in a few short seconds is the most powerful thing you can have in quick-paced games."
+  },
+  {
+    "id": 2,
+    "name": "Doctor",
+    "img": "images/doc.png",
+    "link": "https://deadbydaylight.gamepedia.com/Herman_Carter",
+    "rating": "A+",
+    "reason": "The Doctor is a controversial killer because of his ability to gain information about the situation. His Shock Therapy ability allows him to make survivors scream when they are in the terror radius. This means no need for Whispers. His ability also allows him to shutdown pallets and loops because the shock cancels the ability to interact. He also has the longest lunge in the game (comparable to Freddy and Mike at EW3)."
+  },
+  {
+    "id": 3,
+    "name": "Clown",
+    "img": "images/clown.png",
+    "link": "https://deadbydaylight.gamepedia.com/Clown",
+    "rating": "A",
+    "reason": "The Clown has a pretty similar ability to the Doctor, but also a bit of the Humtress and that is why he is right between them. His bottles give him the ability to catch up to survivors and deny pallets similar to the Doc, but they do require a reload like the Huntress's hatches."
+  },
+  {
+    "id": 4,
+    "name": "Huntress",
+    "img": "images/huntress.png",
+    "link": "https://deadbydaylight.gamepedia.com/Huntress",
+    "rating": "B+",
+    "reason": "Huntress is kind of slow like Hag and Nurse, but her hatches can do a lot of punishing to people who sit on pallets. This gives her the edge over Hag because the Hag has to take the time to place traps at pallets in order to stop them. (P.S. Her hitbox is a little bit broken right now on hatches so she performs more like an A rank)"
+  },
+  {
+    "id": 5,
+    "name": "Shape",
+    "img": "images/shape.png",
+    "link": "https://deadbydaylight.gamepedia.com/Shape",
+    "rating": "B",
+    "reason": "Mike is definitely a good killer, but that's about it. His ability to one-hit survivors is good but without addons can be kind of slow to get and quick to burn. "
+  },
+  {
+    "id": 6,
+    "name": "Cannibal",
+    "img": "images/cannibal.png",
+    "link": "https://deadbydaylight.gamepedia.com/Cannibal",
+    "rating": "B",
+    "reason": "The good old chocolate fatty, Leatherface, is a pretty average killer but he gets an insta-down mechanic that can hit multiple survivors at a time. That gives him a slight boost over the other killers below. Give him the increase speed addon and some basement camping perks, and he will ruin people's lives."
+  },
+  {
+    "id": 7,
+    "name": "Trapper",
+    "img": "images/trapper.png",
+    "link": "https://deadbydaylight.gamepedia.com/Trapper",
+    "rating": "C",
+    "reason": "There is nothing too special about the Trapper. Sure he has the ability to shutdown windows and pallets using traps, but that requires some setup time which is the enemy of the killer."
+  },
+  {
+    "id": 8,
+    "name": "Hag",
+    "img": "images/hag.png",
+    "link": "https://deadbydaylight.gamepedia.com/Hag",
+    "rating": "C",
+    "reason": "There is nothing too special about the Hag. Sure she has the ability to shutdown windows and pallets using traps, but that requires some setup time which is the enemy of the killer."
+  },
+  {
+    "id": 9,
+    "name": "Pig",
+    "img": "images/pig.png",
+    "link": "https://deadbydaylight.gamepedia.com/Pig",
+    "rating": "C",
+    "reason": "There is nothing too special about the Pig. She has the ability to trap survivors, but those traps take a long time to go off. But hey, if you tunnel as the Pig, at least you will be a meme."
+  },
+  {
+    "id": 10,
+    "name": "Wraith",
+    "img": "images/wraith.png",
+    "link": "https://deadbydaylight.gamepedia.com/Wraith",
+    "rating": "D",
+    "reason": "D for \"why couldn't the Doc be this bad?\". Wraith is my favorite killer because of his spook factor to brand new survivors. His ability to cloak and gain some movement speed is cool but mostly ineffective against survivors who know how to kite a killer. Some of his addons make him stronger (maybe B tier), but base stats show that he is just a plain killer."
+  },
+  {
+    "id": 11,
+    "name": "Freddy",
+    "img": "images/freddy.png",
+    "link": "https://deadbydaylight.gamepedia.com/Freddy",
+    "rating": "F",
+    "reason": "Press F to pay respects because Freddy has no strengths at all besides slowing survivors down a bit when they are in the dream world. His speed is about the same as all normal killers, he cannot hit survivors unless they are in the dream (which means no way to effectively camp), and it takes a few seconds to pull people into the dream. Freddy is effective in 1v1 scenarios, however this is a 4v1."
+  }
+]
