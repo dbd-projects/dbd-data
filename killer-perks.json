@@ -1,0 +1,30 @@
+{
+    "name": "Killer Perk List",
+    "version": "2.1.1",
+    "list": [
+        {
+            "name": "A Nurse's Calling",
+            "earlyScore": 2,
+            "lateScore": 4,
+            "genStopScore": 2,
+            "huntScore": 9,
+            "campScore": 5
+        },
+        {
+            "name": "Agitation",
+            "earlyScore": 3,
+            "lateScore": 5,
+            "genStopScore": 3,
+            "huntScore": 1,
+            "campScore": 1
+        }
+    ]
+    "Barbecue & Chilli","Beast of Prey","Bitter Murmur","Bloodhound",
+    "Blood Warden","Brutal Strength","Deerstalker","Distressing","Dying Light","Enduring","Fire Up",
+    "Franklin's Demise","Insidious","Iron Grasp","Hangman's Trick","Hex: Devour Hope","Hex: Huntress Lullaby",
+    "Hex: No One Escapes Death","Hex: Ruin","Hex: The Third Seal","Hex: Thrill of the Hunt","Knock Out","Lightborn",
+    "Make Your Choice","Monitor & Abuse","Monstrous Shrine","Overcharge","Overwhelming Presence","Remember Me",
+    "Play With Your Food","Predator","Save The Best For Last","Shadowborn","Sloppy Butcher",
+    "Spies From The Shadows","Stridor","Surveilance","Terrtorial Imperative","Tinkerer","Thanatophobia",
+    "Unnerving Presence","Unrelenting","Whispers","Bamboozle","Coulrophobia","Pop Goes The Weasel"
+}

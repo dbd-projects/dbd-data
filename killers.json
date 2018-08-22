@@ -1,0 +1,42 @@
+{
+    "name": "Killer List",
+    "version": "2.1.1",
+    "list": [
+        {
+            "name": "Trapper"
+        },
+        {
+            "name": "Wraith"
+        },
+        {
+            "name": "Hillbilly"
+        },
+        {
+            "name": "Nurse"
+        },
+        {
+            "name": "Shape"
+        },
+        {
+            "name": "Hag"
+        },
+        {
+            "name": "Doctor"
+        },
+        {
+            "name": "Huntress"
+        },
+        {
+            "name": "Cannibal"
+        },
+        {
+            "name": "Nightmare"
+        },
+        {
+            "name": "Pig"
+        },
+        {
+            "name": "Clown"
+        }
+    ]
+}
